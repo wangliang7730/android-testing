@@ -1,6 +1,8 @@
 Android testing samples
 ===================================
 
+Google测试示例代码
+
 A collection of samples demonstrating different frameworks and techniques for automated testing.
 
 ### Espresso Samples
